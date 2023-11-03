@@ -6,7 +6,7 @@ Repositório com os códigos utilizados nos trabalhos da disciplina de Sistemas 
 - [x] quantidade_condutores
 - [x] infracoes
 - [x] localidade
-- [ ] veiculo
+- [x] veiculo
 - [ ] data
 - [ ] quantidade_infracoes
 - [ ] acidentes
