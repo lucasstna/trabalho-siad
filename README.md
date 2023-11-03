@@ -10,4 +10,4 @@ Repositório com os códigos utilizados nos trabalhos da disciplina de Sistemas 
 - [ ] data
 - [ ] quantidade_infracoes
 - [ ] acidentes
-- [ ] vitima
+- [x] vitima
