@@ -8,6 +8,6 @@ Repositório com os códigos utilizados nos trabalhos da disciplina de Sistemas 
 - [x] localidade
 - [x] veiculo
 - [x] data
-- [ ] quantidade_infracoes
+- [x] quantidade_infracoes
 - [x] acidentes
 - [x] vitima
