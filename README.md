@@ -11,3 +11,9 @@ Repositório com os códigos utilizados nos trabalhos da disciplina de Sistemas 
 - [x] quantidade_infracoes
 - [x] acidentes
 - [x] vitima
+
+## Dependencies installation
+
+```
+pip install -r requirements.txt
+```
