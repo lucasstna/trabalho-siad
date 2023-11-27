@@ -12,7 +12,7 @@ Repositório com os códigos utilizados nos trabalhos da disciplina de Sistemas 
 - [x] acidentes
 - [x] vitima
 
-## Dependencies installation
+## Instalação de dependências
 
 ```
 pip install -r requirements.txt
